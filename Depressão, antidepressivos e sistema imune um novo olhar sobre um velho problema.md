@@ -1,0 +1,14 @@
+**Nome:** Vinícius Zezília M. Pereira
+**Série:** 3°DS
+
+## **Resumo:** Depressão, antidepressivos e sistema imune um novo olhar sobre um velho problema
+
+Objetivo desse artigo é analisar criticamente o papel do sistema de resposta imunoinflamatória na depressão, bem como discutir a interação dos antidepressivos com esse sistema, tanto sob a perspectiva básica quanto clínica. Os resultados indicam que pacientes com estresse crônico e depressão apresentam ativação do sistema imunoinflamatório e do eixo hipotálamo-hipófise-adrenal, impactando diretamente a neurotransmissão. Evidências sugerem que os antidepressivos não apenas aumentam a disponibilidade de neurotransmissores, mas também promovem uma modulação do sistema imune, favorecendo a transição de um perfil pró-inflamatório para um anti-inflamatório . Além disso, pacientes refratários ao tratamento apresentam maior ativação imunoinflamatória, embora haja divergências na literatura quanto ao perfil imune associado a diferentes tipos de depressão. Conclui-se que a integração de conhecimentos neuroimunes pode ampliar a compreensão das bases biológicas da depressão e abrir novas possibilidades terapêuticas.
+
+## **Resumo:** Depressão, uma questão de saúde pública
+
+Esse artigo mostra que depressão é um transtorno mental sério que deve ser tratado com mais atenção, devido ao elevado número de casos e aos impactos profundos que causa. Está diretamente associada ao alto índice de suicídios, afetando não só quem sofre da doença, mas a vida social da pessoa e aqueles que a rodeiam. A depressão é caracterizado pela perda de interesse pela vida, tristeza profunda e baixa autoestima. O custo do tratamento é alto que diminui a acessibilidade. A falta de informação, apoio e conscientização dificulta o diagnóstico precoce e a busca por ajuda. Campanhas de sensibilização e treinamento de profissionais são essenciais para prevenir casos graves e ampliar o acesso ao cuidado. A depressão precisa ser visibilizada e combatida como uma questão de saúde pública urgente.
+
+## **Resumo:** Terapia cognitivo-comportamental da depressão
+
+Este trabalho tem como objetivo revisar estudos sobre a eficácia da terapia cognitivo-comportamental (TCC) no tratamento da depressão, com ênfase na descrição do uso de técnicas cognitivas. São apresentados os fundamentos teóricos da TCC aplicados à depressão, bem como uma análise das evidências científicas de sua eficácia em curto e longo prazo. Os resultados indicam que a TCC é uma das abordagens terapêuticas com maior respaldo empírico para o tratamento da depressão, seja utilizada isoladamente ou em combinação com a farmacoterapia.
